@@ -10,7 +10,7 @@ dependencies:
   collection: ^1.15.0
   dbus: ^0.7.3
   dio: ^4.0.0
-  file: ^6.1.2
+  file: ^7.0.0
   flutter:
     sdk: flutter
   flutter_html: ^3.0.0-beta.2
